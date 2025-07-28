@@ -28,3 +28,6 @@ $ py client.py
     |── sea.py
     └── transport.py
 ```
+
+# Output
+<img width="526" height="486" alt="image" src="https://github.com/user-attachments/assets/4f122b55-eddc-40c0-a597-88c33e6b4259" />
